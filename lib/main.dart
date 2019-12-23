@@ -73,7 +73,8 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
           Text('Github'),
           Icon(Icons.favorite_border),
-          Text('Flutter branch develop')
+          Text('Flutter - '),
+          Text('Branch Develop'),
         ],
       )),
       body: Center(
